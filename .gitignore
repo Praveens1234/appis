@@ -1,0 +1,5 @@
+android-sdk/
+*.apk
+app/build/
+.gradle/
+*.hprof
